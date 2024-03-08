@@ -1,5 +1,5 @@
 # OrionUHC-Scenarios
-These are a list of scenarios used in Orion UHC. An * means the scenario is a meta scen. Meaning these are the most commonly used in almost all games
+These are a list of scenarios used in Orion UHC. An * means the scenario is a meta scen. Meta scens are the most commonly used in almost all games
 ## Antiburn
 Items don’t burn in lava or fire
 ## Anvilless
